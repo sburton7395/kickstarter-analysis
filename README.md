@@ -14,7 +14,7 @@ The majority of analysis was completed through the use of pivot tables and chart
 By comparing the outcomes of theater Kickstarters to the month in which they were launched, it can be concluded that campaigns are more likely to succeed in May, June, and July, with May being the best launch month. The worst month to launch a theater Kickstarter is December.
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes Based on Goals](/Resouces/Outcomes_vs_Goals.png)
+![Outcomes Based on Goals](/Resources/Outcomes_vs_Goals.png)
 By comparing the fundraising goals of play Kickstarters to the rates of success and failure, the campaigns most likely to succeed had a goal of less than $1,000. The goals most likely to fail are from $25,000 to $35,000 and above $40,000. 
 
 ### Challenges and Difficulties Encountered
